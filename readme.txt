@@ -1,5 +1,5 @@
 === Amazon Web Services ===
-Contributors: bradt, deliciousbrains
+Contributors: bradt, deliciousbrains, frcade
 Tags: amazon, amazon web services
 Requires at least: 4.6
 Tested up to: 4.9
