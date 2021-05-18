@@ -31,7 +31,7 @@ interface EventDispatcherInterface
      *
      * @return Event
      */
-    public function dispatch($eventName, Event $event = null);
+    public function dispatch(Event $event = null, $eventName);
 
     /**
      * Adds an event listener that listens on the specified events.

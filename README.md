@@ -3,7 +3,7 @@
 **Tags:** amazon, amazon web services  
 **Requires at least:** 4.6  
 **Tested up to:** 4.9  
-**Stable tag:** 1.0.6  
+**Stable tag:** 1.0.7  
 **License:** GPLv3  
 
 Houses the Amazon Web Services (AWS) PHP SDK v2 libraries and manages access keys.
